@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "lastname": "Yabiku",
+      "usuario git": "sebastianyabiku",
+      "email": "sby2710@gmail.com",
+      "telefono": "923708059",
+      "url_avatar": "https://www.shareicon.net/data/2016/08/05/806962_user_512x512.png",
+      "about": "lorem ipsum"
+    }
+  ]
+}
